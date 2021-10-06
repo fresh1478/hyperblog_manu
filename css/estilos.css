@@ -7,6 +7,12 @@ body
     margin: 0;
     padding: 0;
 }
+
+#Cabecera
+{
+    background: #33A;
+}
+
 #container
 {
     width: 70%;
